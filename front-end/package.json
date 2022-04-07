@@ -2,7 +2,7 @@
   "name": "front-end",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Saryn <halecone@gmail.com>",
+  "author": "hua <halecone@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -10,8 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.26.1",
-    "element-ui": "^2.15.6",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
